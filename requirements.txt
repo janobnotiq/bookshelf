@@ -1,2 +1,4 @@
 Django==5.1.2
 python-dotenv==1.0.1
+django-unfold==0.40.0
+pillow==11.0.0
